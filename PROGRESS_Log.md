@@ -23,3 +23,6 @@
  Push/Enqueue           O(1) (Amortized)                        O(1) 
  Pop/Dequeue            O(1)                                    O(1) 
  Search                 O(n)                                    O(n) 
+
+## Day 5
+- Binary Search: Limit > Needs sorted data.
