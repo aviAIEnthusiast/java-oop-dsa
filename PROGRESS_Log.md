@@ -25,4 +25,7 @@
  Search                 O(n)                                    O(n) 
 
 ## Day 5
-- Binary Search: Limit > Needs sorted data.
+- Binary Search: Limit > Needs sorted data. O(log n)
+
+## Day 6
+- Linear Search: O(n); Bubble sort Time -> O(n^2), Space -> O(n)
