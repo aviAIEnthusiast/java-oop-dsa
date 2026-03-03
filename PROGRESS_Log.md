@@ -33,3 +33,6 @@
 
 ## Day 6
 - Insertion sort Time -> O(n^2), Space -> O(n)
+
+## Day 7
+- Quick sort (Divide N Conq) -> avg case: O(n log n) // due to random pivot, worst case: O(n^2)
